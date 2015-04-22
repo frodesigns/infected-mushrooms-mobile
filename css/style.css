@@ -1,0 +1,28 @@
+small { font-style: italic; }
+.trackercontent small, .itemhistory small { margin-left: 10px; }
+.item-icon { padding: 10px !important; }
+.item-page-icon { vertical-align: middle; margin-right: 10px; }
+.ui-btn-inline { vertical-align: middle; }
+span.found { color: red; }
+.inline-select .ui-select { display: inline-block; }
+.postcontent img, .messagecontent img { max-width: 100%; }
+.postcontent .ui-li-desc, .treasurycontent .ui-li-desc, .membercontent .ui-li-desc { white-space: normal; text-overflow: none; overflow: visible; }
+blockquote { border: 1px solid #666; padding: 10px; }
+blockquote .ui-li-desc { margin: 0; }
+/*.postcontent { min-height: 80px !important; }*/
+.trackercontent { min-height: 100px !important; }
+.treasurycontent { min-height: 80px !important; padding-left: 80px !important; }
+.trackercontent .ui-btn-inner a.ui-link-inherit { padding-left: 80px !important; }
+.textgreen, p.success  { color: green; }
+.textred, p.errors { color: red; }
+.pollcontent .ui-disabled { opacity: 1; }
+.pollbuttons .ui-disabled { opacity: 0.6; }
+.pollcontent .ui-controlgroup-horizontal .ui-btn, .pollcontent .ui-controlgroup-horizontal .ui-select { margin: 0 -1px 0 0 !important; }
+.ui-footer a { margin: 5px 0 5px 5px !important; }
+a.refresh, a.scroll-top { float: right; margin: 5px 5px 5px 0 !important; }
+h2.mushroom { background: url("/images/mushroom.png") no-repeat right bottom; margin: 0; padding: 20px 0 20px 0; background-size: 64px 62px;  }
+ul#privateMessages { margin-top: 0; }
+div.mushroom { background: url("/images/mushroom-m.png") no-repeat; background-size: 32px 31px; position: absolute; top: -32px; right: 10px; width: 32px; height: 31px; }
+.expandable { cursor: pointer; }
+.expandable .ui-btn { margin: 0; }
+.icon-nobutton { display: inline-block; }
